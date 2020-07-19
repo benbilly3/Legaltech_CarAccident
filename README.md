@@ -5,6 +5,6 @@
 視覺化呈現案件關鍵字在請求平均金額與判決間的差異。
 
 相關資訊檔案連結：
-https://drive.google.com/open?id=1VsT5K8f4fbToy-dnMgdcxEacIUqkeR-z
+https://drive.google.com/file/d/19_amQawqq-qVB6JqF4Rbhk3a4Yg9b_GD/view?usp=sharing
 
 ![image](https://github.com/benbilly3/Legaltech_CarAccident/blob/master/車禍賠償金預測開發套件.png)
